@@ -1,0 +1,9 @@
+2024-12-30 20:19:34,769 - INFO - START microsoft_azure =============================================
+2024-12-30 20:19:34,769 - INFO - START microsoft_azure Start Time = 2024-12-30 20:19:34
+2024-12-30 20:19:34,769 - INFO - microsoft_azure Step 0 - Initialize the configuration file parser
+2024-12-30 20:19:34,770 - INFO - Process microsoft_azure Step 0 - Initializing and starting Logging Process.
+2024-12-30 20:19:34,943 - INFO - PERFORMANCE microsoft_azure The total process duration was:0.17
+2024-12-30 20:19:34,943 - INFO - PERFORMANCE microsoft_azure Stop Time = 2024-12-30 20:19:34
+2024-12-30 20:19:34,943 - INFO - PERFORMANCE microsoft_azure Short process duration less than 3 Seconds:0.17
+2024-12-30 20:19:34,943 - INFO - PERFORMANCE microsoft_azure Performance optimization is not reccomended
+2024-12-30 20:19:34,943 - INFO - END microsoft_azure =============================================
