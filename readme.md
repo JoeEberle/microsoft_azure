@@ -4,19 +4,9 @@
 
 ## A learning pathway for microsoft azure AI fundamentals.
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 Microsoft provides a variety of free training resources to help individuals prepare for Azure certifications.
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
